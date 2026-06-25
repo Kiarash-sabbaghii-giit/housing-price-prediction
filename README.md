@@ -255,9 +255,6 @@ Random sample of 10,000 observations
 
 📊 Results Comparison
 
-Dataset| MAE| MSE| RMSE| R²
-Full Dataset| —| —| —| —
-10,000 Samples| —| —| —| —
 
 «Replace the values above with your experimental results.»
 

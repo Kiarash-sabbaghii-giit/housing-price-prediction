@@ -1,6 +1,6 @@
 🍔 SnapFood Customer Sentiment Analysis
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)         ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange)  ![License](https://img.shields.io/badge/License-MIT-green)
+![Python](https://img.shields.io/badge/Python-3.13-blue)         ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange)  ![License](https://img.shields.io/badge/License-MIT-green)
 
 
 📌 Project Overview
@@ -140,11 +140,7 @@ This project is licensed under the MIT License.
 
 🏡 California Housing Price Prediction using Linear Regression
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange)
-
-![License](https://img.shields.io/badge/License-MIT-green)
+![Python](https://img.shields.io/badge/Python-3.13-blue)![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange)![License](https://img.shields.io/badge/License-MIT-green)
 
 📌 Project Overview
 
